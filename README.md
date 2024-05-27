@@ -1,6 +1,6 @@
 
 # StarkChess
-A multi-online chess game built on starknet
+A multi-online chess game built on starknet that enable enables easy play among players
 
 # Online web chess made - Realtime chess game play with your friends. Technology used  ReactJs, NodeJS, Express, Socket.io., currently working on Cairo Smart contract
 Live Preview at : https://chess-web-online.netlify.app. to see how it will be fully 
